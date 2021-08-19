@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://fluxpuck.com">Mathew</a>.</strong></h1>
-<p align="center">I am a media design student, 6th semester</p>
+<p align="center">I am a media design student, 7th semester</p>
 <img align="right" alt="GIF" height="160px" src="https://media.discordapp.net/stickers/878002449506500628.png" />
 
 ## &nbsp;About me 
