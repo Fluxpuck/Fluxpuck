@@ -4,7 +4,7 @@
 
 ## &nbsp;About me 
 - 🎓 &nbsp; Studying IT Media Design at Fontys University of Applied Sciences.
-- 📚 &nbsp; Learning about Mobile Application Development c(PWA, ReactJS, NextJS...).
+- 📚 &nbsp; Learning about Mobile Application Development (PWA, ReactJS, NextJS...).
 - 🤔 &nbsp; Exploring new web-technologies and developing Discord bots.
 
 ----
