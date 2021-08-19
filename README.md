@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://fluxpuck.com">Mathew</a>.</strong></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://fluxpuck.com">Fluxpuck</a>.</strong></h1>
 <p align="center">I am a media design student, 7th semester</p>
 <img align="right" alt="GIF" height="160px" src="https://media.discordapp.net/stickers/878002449506500628.png" />
 
@@ -18,9 +18,8 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ----
 
-[Fluxpuck]() ❤ programming \
 *Last Edited on: 19/08/2021*
