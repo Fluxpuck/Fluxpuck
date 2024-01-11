@@ -9,8 +9,8 @@ const Fluxpuck = {
   code: [Javascript, Typescript, PHP, SQL, HTML, CSS],
   tools: [NextJS, ReactJS, PostgreSQL, Tailwindcss, Docker],
   projects: {
-    Discord: [Sero, Flux, Hyper, Hyper+, Blinq, LDS]
-    Others: [Restfull-API, Domotica (Home Assistant)]
+    Discord: [Sero, Flux, Hyper, Hyper+, Blinq, LDS],
+    Others: [API, Home Assistance, Networking, Software Intergration]
   }
 }
 ```
