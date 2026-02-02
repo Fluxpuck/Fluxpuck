@@ -42,7 +42,7 @@
 
 ---
 
-## 🤖 AI & APIs
+## 🤖 LLMs
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
